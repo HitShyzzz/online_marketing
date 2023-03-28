@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/online_marketing.iml" filepath="$PROJECT_DIR$/.idea/online_marketing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SuperMarket-master/supermarket.iml" filepath="$PROJECT_DIR$/SuperMarket-master/supermarket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SuperMarket-master/cart/supermarket-cart.iml" filepath="$PROJECT_DIR$/SuperMarket-master/cart/supermarket-cart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SuperMarket-master/common/supermarket-common.iml" filepath="$PROJECT_DIR$/SuperMarket-master/common/supermarket-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SuperMarket-master/eureka/supermarket-eureka.iml" filepath="$PROJECT_DIR$/SuperMarket-master/eureka/supermarket-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SuperMarket-master/zuul-gateway/supermarket-gateway.iml" filepath="$PROJECT_DIR$/SuperMarket-master/zuul-gateway/supermarket-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SuperMarket-master/image/supermarket-image.iml" filepath="$PROJECT_DIR$/SuperMarket-master/image/supermarket-image.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SuperMarket-master/instant-buy/supermarket-instantbuy.iml" filepath="$PROJECT_DIR$/SuperMarket-master/instant-buy/supermarket-instantbuy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SuperMarket-master/order/supermarket-order.iml" filepath="$PROJECT_DIR$/SuperMarket-master/order/supermarket-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SuperMarket-master/product/supermarket-product.iml" filepath="$PROJECT_DIR$/SuperMarket-master/product/supermarket-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SuperMarket-master/search/supermarket-search.iml" filepath="$PROJECT_DIR$/SuperMarket-master/search/supermarket-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SuperMarket-master/user/supermarket-user.iml" filepath="$PROJECT_DIR$/SuperMarket-master/user/supermarket-user.iml" />
+    </modules>
+  </component>
+</project>
