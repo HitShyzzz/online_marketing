@@ -13,8 +13,8 @@
         <module name="supermarket-gateway" />
         <module name="supermarket-user" />
         <module name="supermarket-product" />
-        <module name="supermarket-order" />
         <module name="supermarket-cart" />
+        <module name="supermarket-order" />
         <module name="supermarket-eureka" />
         <module name="supermarket-image" />
       </profile>

@@ -4,10 +4,23 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/SuperMarket-master/pom.xml" />
+        <option value="$PROJECT_DIR$/SuperMarket/cart/pom.xml" />
+        <option value="$PROJECT_DIR$/SuperMarket/common/pom.xml" />
+        <option value="$PROJECT_DIR$/SuperMarket/eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/SuperMarket/image/pom.xml" />
+        <option value="$PROJECT_DIR$/SuperMarket/instant-buy/pom.xml" />
+        <option value="$PROJECT_DIR$/SuperMarket/order/pom.xml" />
+        <option value="$PROJECT_DIR$/SuperMarket/product/pom.xml" />
+        <option value="$PROJECT_DIR$/SuperMarket/search/pom.xml" />
+        <option value="$PROJECT_DIR$/SuperMarket/user/pom.xml" />
+        <option value="$PROJECT_DIR$/SuperMarket/zuul-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/SuperMarket/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_18" default="true" project-jdk-name="18" project-jdk-type="JavaSDK" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_18" default="true" project-jdk-name="18" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
   <component name="SwUserDefinedSpecifications">
     <option name="specTypeByUrl">
       <map />
